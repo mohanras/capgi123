@@ -2,7 +2,7 @@ package com.cg.pro;
 
 public class Process {
 	int id;
-	String state;
+    String state;
 	public int getId() {
 		return id;
 	}
@@ -15,6 +15,6 @@ public class Process {
 	public void setState(String state) {
 		this.state = state;
 	}
-	
+    
 
 }
